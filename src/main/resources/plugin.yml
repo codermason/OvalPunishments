@@ -1,0 +1,4 @@
+name: OvalPunishments
+version: ${pom.version}
+main: us.ovalnetwork.punishments.OvalPunishments
+author: codermason
